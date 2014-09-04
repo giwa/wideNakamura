@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<issues>
+  <issue>
+    <id>1</id>
+    <title>Add Visual Studio 2005 and 2008 solution files</title>
+    <details>We need Visual Studio 2005/2008 project files for Windows.</details>
+  </issue>
+</issues>
